@@ -1,2 +1,3 @@
-# GSort---Gigasort
-GSort is a sorting Algorithm
+# GSort - Gigasort
+
+GSort is a Simple Python Sorting Algorithm
